@@ -1,4 +1,4 @@
-# Docs: Confidential Computing 
+# Docs:  
 
 There are many confidential computing (i.e. privacy preserving) techniques:
 
@@ -7,4 +7,8 @@ There are many confidential computing (i.e. privacy preserving) techniques:
 3. [Federated Learning](URL 'Federated Learning')
 4. [Fully Homomorphic Encryption (FHE)](https://github.com/Fully-Homomorphic-Encryption/Docs/blob/main/src/fully-homomorphic-encryption.md 'Fully Homomorphic Encryption (FHE)')
 5. Muti Party Computation (MPC)
-6. Secure Enclave (e.g. SGX and TrustZone)
+6. Confidential Computing through Secure Enclave (e.g. SGX and TrustZone)
+
+
+
+
