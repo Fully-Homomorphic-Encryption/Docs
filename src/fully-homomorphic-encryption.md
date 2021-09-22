@@ -17,3 +17,7 @@ Thus, FHE does not support application code integrity nor code confidentiality.
 
 
 
+
+
+Ref: 
+1. HES https://homomorphicencryption.org/introduction/
