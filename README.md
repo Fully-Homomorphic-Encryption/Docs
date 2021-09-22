@@ -1,6 +1,6 @@
-# Docs:  
+# Privacy Preserving Techniques  
 
-There are many confidential computing (i.e. privacy preserving) techniques:
+There are many Privacy Preserving Techniques:
 
 1. Anonymization (weakest)
 2. Differential Privacy
