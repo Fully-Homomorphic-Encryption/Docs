@@ -10,3 +10,10 @@ Homomorphic Encryption cryptosystem allows operate on ciphertexts without decryp
 
 It ensures end-to-end semantically secure, which is ensuring security against honest but curious adversaries. 
 
+Different from confidential computing, FHE takes a software-based data encryption/protection.
+
+Since FHE does not performs computational processing in Trusted Execution Environment (TEE), and unauthorized access or modification of data and application code during processing might occur. 
+Thus, FHE does not support application code integrity nor code confidentiality.
+
+
+
