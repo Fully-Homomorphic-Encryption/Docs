@@ -15,7 +15,7 @@ Different from confidential computing, FHE takes a software-based data encryptio
 Since FHE does not perform computational processing in Trusted Execution Environment (TEE), and unauthorized access or modification of data and application code during processing might occur. 
 Thus, FHE does not support application code integrity nor code confidentiality.
 
-
+Ring-Learning With Errors (RLWE) problem
 
 
 
