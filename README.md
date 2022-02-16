@@ -1,6 +1,7 @@
 # Privacy Preserving Techniques  
 
 Privacy preserving technique allows sharing sensitive personal information while preserving users' privacy.
+
 There are many Privacy Preserving Techniques:
 
 1. [Anonymization (weakest)]( https://github.com/Fully-Homomorphic-Encryption/Docs/blob/main/src/anonymization.md 'Anonymization (weakest)')
